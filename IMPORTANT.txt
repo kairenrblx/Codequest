@@ -1,0 +1,1 @@
+Hey there! SUHL2/Kairen here, I just wanted to let you know that you need to unzip the worldgen folder before running the main game, as you need to generate a world before playing.
